@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 #git é melhor que svn
-#alteracao 2
 
+
+=======
+#Primeiro teste
+#Alteracao 1
+>>>>>>> desenvolvimento
