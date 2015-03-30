@@ -6,4 +6,5 @@
 #Primeiro teste
 #Alteracao 1
 #mais uma alteracao
+#outra alteracao
 >>>>>>> desenvolvimento
